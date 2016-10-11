@@ -1,0 +1,12 @@
+{
+  "name": "gpsu-members-app",
+  "version": "0.0.0",
+  "description": "A desktop application for cataloging GPSU members.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
